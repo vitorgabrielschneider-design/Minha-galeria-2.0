@@ -1,10 +1,8 @@
-.imagem{
-/*largura*/
-width:250px;
+body{
+margin: 0;
+/*remove a margem*/
+background-color: rgb(255, 153, 0); /*muda a cor do fundo*/
 
-/*altura*/
-height:250px;
-
-
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*tipo da letra*/
 
 }
