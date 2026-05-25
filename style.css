@@ -6,3 +6,24 @@ background-color: rgb(255, 153, 0); /*muda a cor do fundo*/
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*tipo da letra*/
 
 }
+
+h1{
+
+    text-align: center; /*alinhamento do titulo*/
+
+    margin-bottom: 30px ; /*margem do titulo*/
+}
+
+
+
+.imagem{
+
+   display : grid; /* faz a tela ficar em 3x3*/
+   grid-template-columns:         repeat(auto-fit,minmax(250px,1fr) ) ;
+
+/*cria colunas, auto fit = encaixa as colunas inmax= restringe o numero o numero de colunas*/
+margin: auto; /* margem*/
+
+
+
+}
