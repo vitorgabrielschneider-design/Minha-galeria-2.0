@@ -30,8 +30,8 @@ margin: auto; /* margem*/
 
 .imagem img {
 
-width: 50%;
-max-width: 100px; /*define a altura*/
+width: 95%;
+max-width: 500px; /*define a altura*/
 justify-self: center;
 
 
